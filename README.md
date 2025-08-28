@@ -1,4 +1,4 @@
-# Hi there, I’m Wojciech Dabrovsky 👋
+# Hi there 👋
 
 I’m a **Ruby / Full-Stack Developer** based in Poland. I'm passionate about building clean, functional web applications.
 
